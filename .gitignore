@@ -1,0 +1,19 @@
+# DEPENDENCIAS : IGNORAMOS TODO LO QUE HAY DE UNA CAROETA EN ADELANTE PONIENDO "/" AL FINAL
+node_modules/
+
+# SALIDAS DE ANGULAR
+dist/
+out-tsc/
+.angular/
+
+# ARCHIVOS DE DATOS JSON-Server 
+db.json 
+
+
+# LOG DE NPM/YARN
+npm-debug.log*
+yarn-error-log*
+
+# AJUSTES LOCALES DE VSCODE
+.vscode/
+
